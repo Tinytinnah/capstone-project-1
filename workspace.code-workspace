@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\fontawesome-free-5.0.9"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fylo-dark-theme-landing-page-master"
+	}
+}
